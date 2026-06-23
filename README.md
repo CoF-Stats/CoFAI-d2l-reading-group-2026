@@ -1,0 +1,1 @@
+# CoFAI-d2l-reading-group-2026
