@@ -42,21 +42,43 @@
 
     - Establish group code of conduct and GenAI policies
 
-- July 1
+- July 1 - Chapter 3: Regression and NNs
 
-- July 8
+	- Section 3.1
 
-- July 15
+	- Exercises 3 and 6
 
-- July 22
+- July 8 - Chapter 4: Classification
 
-- July 29
+- July 15 - MLPs
 
-- August 5
+- July 22 - 
 
-- August 12
+- July 29 - 
 
-- August 19
+- August 5 - CNNs
 
-- August 26
+- August 12 - RNNs
+
+- August 19 - Natural language processing
+
+- August 26 - Attention and Transformers
+
+Maybe applications to personal datasets
+
+
+# notes
+
+- Teams chat on the preliminaries for chap 1 and 2
+
+- Chap 3 and 4 (regression and 
+
+- Attention and Transformers
+
+- Builders guide (for end)
+
+- Building a glossary of NNs
+
+- 
+
 
