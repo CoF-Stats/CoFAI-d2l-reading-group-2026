@@ -28,7 +28,7 @@
 
 ## Group GenAI policy
 
-*Open discussion*
+*Individual-level decisions on how and when to use GenAI. Remember we are here to learn, and struggle is part of the game.* 
 
 ## Schedule
 
@@ -42,17 +42,17 @@
 
     - Establish group code of conduct and GenAI policies
 
-- July 1 - Chapter 3: Regression and NNs
+- July 1 - Chapter 3, Section 1: Regression and relation to Neural Networks
 
-	- Section 3.1
+	- [Section 3.1](https://d2l.ai/chapter_linear-regression/linear-regression.html)
 
-	- Exercises 3 and 6
+	- [Exercises 3 and 6](https://d2l.ai/chapter_linear-regression/linear-regression.html#exercises)
 
-- July 8 - Chapter 4: Classification
+- July 8 - Chapter 3, Sections [6](https://d2l.ai/chapter_linear-regression/generalization.html) and [7](https://d2l.ai/chapter_linear-regression/weight-decay.html): Generalization and Weight Decay
 
-- July 15 - MLPs
+- July 15 - Chapter 4: Linear Neural Networks for Classification
 
-- July 22 - 
+- July 22 - Chapter 5: MLPs
 
 - July 29 - 
 
@@ -64,21 +64,7 @@
 
 - August 26 - Attention and Transformers
 
-Maybe applications to personal datasets
+*Maybe applications to personal datasets towards the end*
 
-
-# notes
-
-- Teams chat on the preliminaries for chap 1 and 2
-
-- Chap 3 and 4 (regression and 
-
-- Attention and Transformers
-
-- Builders guide (for end)
-
-- Building a glossary of NNs
-
-- 
 
 
