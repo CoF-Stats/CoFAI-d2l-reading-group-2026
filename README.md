@@ -26,6 +26,25 @@
 
     - To open a notebook from this repo in Colab, go to `colab.research.google.com → File → Open notebook → GitHub` and paste the repo URL. Alternatively, replace `github.com` in any notebook URL with `colab.research.google.com/github` for a direct link. **Note**: changes made in Colab won't save back to GitHub automatically — use `File → Save a copy in GitHub` to contribute changes.
 
+### Workflow: Branch → Colab → Commit
+
+1. **Create a branch on GitHub**
+   - Navigate to the repo on [github.com](https://github.com/CoF-Stats/CoFAI-d2l-reading-group-2026).
+   - Click the branch dropdown (top-left, shows `main`) → type a new branch name (e.g., `yourname/week02`) → click **Create branch**.
+
+2. **Open a notebook in Colab from your branch**
+   - Go to [colab.research.google.com](https://colab.research.google.com) → **File → Open notebook → GitHub**.
+   - Paste the repo URL. Use the **Branch** dropdown that appears to select your new branch.
+   - Click the notebook you want to open.
+
+3. **Work in Colab**
+   - Run cells, make edits, add experiments as usual.
+
+4. **Save changes back to your branch**
+   - In Colab: **File → Save a copy in GitHub**.
+   - In the dialog, select the repo (`CoF-Stats/CoFAI-d2l-reading-group-2026`), choose your branch from the **Branch** dropdown, and confirm the file path.
+   - Add a commit message describing your changes, then click **OK**. The notebook is now committed to your branch on GitHub.
+
 ## Group GenAI policy
 
 *Individual-level decisions on how and when to use GenAI. Remember we are here to learn, and struggle is part of the game.* 
