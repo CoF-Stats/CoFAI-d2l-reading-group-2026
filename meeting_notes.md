@@ -2,7 +2,7 @@
 
 ## People
 
-Dusty, Zane, Jessie, Brian, Tuesday, Nina (Zoom), Kelly (Zoom)
+Dusty, Zane, Jessie, Brian, Tuesday, Kristopher, Nina (Zoom), Kelly (Zoom)
 
 ## Decisions
 
