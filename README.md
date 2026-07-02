@@ -69,6 +69,8 @@
 
 - July 8 - Chapter 3, Sections [6](https://d2l.ai/chapter_linear-regression/generalization.html) and [7](https://d2l.ai/chapter_linear-regression/weight-decay.html): Generalization and Weight Decay
 
+  	- Exercises [3.6.5.5](https://d2l.ai/chapter_linear-regression/generalization.html#exercises) OR [3.7.6.1](https://d2l.ai/chapter_linear-regression/weight-decay.html#exercises)
+
 - July 15 - Chapter 4: Linear Neural Networks for Classification
 
 - July 22 - Chapter 5: MLPs
