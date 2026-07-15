@@ -71,9 +71,17 @@
 
   	- Exercises [3.6.5.5](https://d2l.ai/chapter_linear-regression/generalization.html#exercises) OR [3.7.6.1](https://d2l.ai/chapter_linear-regression/weight-decay.html#exercises)
 
-- July 15 - Chapter 4: Linear Neural Networks for Classification
+- July 15 - Chapter 4, Section 1: Linear Neural Networks for Classification
 
-- July 22 - Chapter 5: MLPs
+	- Exercise [4.1.5.2](https://d2l.ai/chapter_linear-classification/softmax-regression.html#exercises)
+
+- July 22
+
+  	- Chapter 4, Section 6: [Generalization in Classification](https://d2l.ai/chapter_linear-classification/generalization-classification.html)
+   	
+	- Chapter 4, Sections [7.1](https://d2l.ai/chapter_linear-classification/environment-and-distribution-shift.html#environment-and-distribution-shift) and [7.2](https://d2l.ai/chapter_linear-classification/environment-and-distribution-shift.html#examples-of-distribution-shift)
+   	
+	- Exercise [4.6.5.1](https://d2l.ai/chapter_linear-classification/generalization-classification.html#exercises)
 
 - July 29 - 
 
