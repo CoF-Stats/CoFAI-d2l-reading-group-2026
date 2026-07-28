@@ -83,7 +83,11 @@
    	
 	- Exercise [4.6.5.1](https://d2l.ai/chapter_linear-classification/generalization-classification.html#exercises)
 
-- July 29 - 
+- July 29
+
+  	- Sections [4.7.3](https://d2l.ai/chapter_linear-classification/environment-and-distribution-shift.html#correction-of-distribution-shift) through [5.2 (Implementation of MLPs)](https://d2l.ai/chapter_multilayer-perceptrons/mlp-implementation.html#implementation-of-multilayer-perceptrons)
+ 
+	- Exercise: Choose either [4.7.7.2](https://d2l.ai/chapter_linear-classification/environment-and-distribution-shift.html#exercises) or [5.2.4.1](https://d2l.ai/chapter_multilayer-perceptrons/mlp-implementation.html#exercises)
 
 - August 5 - CNNs
 
