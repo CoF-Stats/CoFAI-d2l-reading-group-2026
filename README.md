@@ -89,7 +89,11 @@
  
 	- Exercise: Choose either [4.7.7.2](https://d2l.ai/chapter_linear-classification/environment-and-distribution-shift.html#exercises) or [5.2.4.1](https://d2l.ai/chapter_multilayer-perceptrons/mlp-implementation.html#exercises)
 
-- August 5 - CNNs
+- August 5
+
+  	- Classifier evaluation metrics: Lever, J., Krzywinski, M. & Altman, N. Classification evaluation. *Nat Methods* 13, 603–604 (2016). [https://doi.org/10.1038/nmeth.3945](https://doi.org/10.1038/nmeth.3945)
+ 
+  	- Videos to supplement understanding (from Kris): [https://www.youtube.com/watch?v=vP06aMoz4v8](https://www.youtube.com/watch?v=vP06aMoz4v8); [https://www.youtube.com/watch?v=Kdsp6soqA7o](https://www.youtube.com/watch?v=Kdsp6soqA7o)
 
 - August 12 - RNNs
 
